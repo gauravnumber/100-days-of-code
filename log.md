@@ -1,13 +1,13 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
+### Day 1: December 14, 2020 (Example 1)
 ##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Add javascript number functionality.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** It's hard but I finally figure it out.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [Calculator App](https://rawcdn.githack.com/gauravnumber/Calculator/e3a5bf35178b65fefe4b3d2297848027857eb1e9/index.html)
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
