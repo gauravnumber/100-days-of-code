@@ -1,7 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 1: December 14, 2020 (Example 1)
-##### (delete me or comment me out)
+### Day 1: December 14, 2020 
 
 **Today's Progress**: Add javascript number functionality.
 
@@ -9,14 +8,13 @@
 
 **Link to work:** [Calculator App](https://rawcdn.githack.com/gauravnumber/Calculator/e3a5bf35178b65fefe4b3d2297848027857eb1e9/index.html)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 2: December 15, 2016 (Example 2)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Use API, to creat weather program.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: Started bit weird, but it worked well.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: [Weather](https://github.com/gauravnumber/Weather)
 
 
 ### Day 1: June 27, Monday
