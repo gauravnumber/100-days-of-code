@@ -24,3 +24,12 @@
 **Thoughts** I saw other developer how they can develop that I realised I must enhanced my calculator.
 
 **Link to work:** [Calculator App](https://GitHub.com/gauravnumber/calculator)
+
+
+### Day 4: December 17, 2020
+
+**Today's Progress**: I solve javascript problem.
+
+**Thoughts** I improve my coding skills.
+
+**Link to work:** [Descending Order](https://www.codewars.com/kata/5467e4d82edf8bbf40000155/train/javascript)
