@@ -21,7 +21,7 @@
 
 **Today's Progress**: I enhanced my calculator.
 
-**Thoughts** I saw other developer how they can develop that I realised I must enhanced my calculator.
+**Thoughts**: I saw other developer how they can develop that I realised I must enhanced my calculator.
 
 **Link to work:** [Calculator App](https://GitHub.com/gauravnumber/calculator)
 
@@ -30,17 +30,26 @@
 
 **Today's Progress**: I solve javascript problem.
 
-**Thoughts** I improve my coding skills.
+**Thoughts**: I improve my coding skills.
 
 **Link to work:** [Descending Order](https://www.codewars.com/kata/5467e4d82edf8bbf40000155/train/javascript)
 
 
 ### Day 5: December 18, 2020
 
-
 **Today's Progress**: Adding webpack on weather app.
-
 
 **Thoughts**: Webpack seems interesting so I add on Weather repository
 
-**Link to work:**: [Weather](https://github.com/gauravnumber/Weather)
+**Link to work:** [Weather](https://github.com/gauravnumber/Weather)
+
+
+### Day 6: December 19, 2020
+
+**Today's Progress**: Add feature +, -, *, /.
+
+**Thoughts**: Just adding feature.
+
+**Link to work:** [Calculator App](https://GitHub.com/gauravnumber/calculator)
+
+
