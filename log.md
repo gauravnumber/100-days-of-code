@@ -53,3 +53,12 @@
 **Link to work:** [Calculator App](https://GitHub.com/gauravnumber/calculator)
 
 
+### Day 7: December 21, 2020
+
+**Today's Progress**: adding latitude and longitude in my weather app
+
+**Thoughts**: I know html, css, javascript. When I try to implement those things then I realise I need more practice.
+ 
+**Link to work:** [Weather](https://github.com/gauravnumber/Weather/blob/develop/dist/index.html)
+
+
