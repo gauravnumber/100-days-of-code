@@ -62,3 +62,10 @@
 **Link to work:** [Weather](https://github.com/gauravnumber/Weather/blob/develop/dist/index.html)
 
 
+### Day 8: December 22, 2020
+
+**Today's Progress**: running weather app give address location
+
+**Thoughts:** I know  I can do this.
+
+**Link to work:** [Weather](https://gauravnumber.github.io/Weather/)
