@@ -69,3 +69,11 @@
 **Thoughts:** I know  I can do this.
 
 **Link to work:** [Weather](https://gauravnumber.github.io/Weather/)
+
+### Day 9: December 28, 2020
+
+**Today's Progress**: Creating parallex website.
+
+**Thoughts:** starting is difficult but I did this.
+
+**Link to work:** [Parallex Website](https://raw.githack.com/gauravnumber/parallex-website/main/index.html)
