@@ -77,3 +77,7 @@
 **Thoughts:** starting is difficult but I did this.
 
 **Link to work:** [Parallex Website](https://raw.githack.com/gauravnumber/parallex-website/main/index.html)
+
+### Day 10: December 30, 2020
+
+**Progress:** I know how to boot up Linux from pendrive
