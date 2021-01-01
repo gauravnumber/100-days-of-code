@@ -81,3 +81,7 @@
 ### Day 10: December 30, 2020
 
 **Progress:** I know how to boot up Linux from pendrive
+
+### Day 11: January 1, 2021
+
+**Progress:** Creating blur image like social media use it.
