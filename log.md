@@ -85,3 +85,11 @@
 ### Day 11: January 1, 2021
 
 **Progress:** Creating blur image like social media use it.
+
+### Day 12: Jan 3, 2021
+
+**Progress:** Creating navbar
+
+**Thought:** Starting is hard. I already can do this. I know how can do this. And I can do it.
+
+**Link to work:** [navbar](https://raw.githack.com/gauravnumber/navbar/main/navbar.html)
