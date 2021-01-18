@@ -93,3 +93,12 @@
 **Thought:** Starting is hard. I already can do this. I know how can do this. And I can do it.
 
 **Link to work:** [navbar](https://raw.githack.com/gauravnumber/navbar/main/navbar.html)
+
+### Day 13: Jan 18, 2021
+
+**Progress:** Providing better experience using search engine.
+
+**Thought:** It my first userscript it feels good and challenging.
+
+**Link to work:** [search](https://github.com/gauravnumber/search-engine)
+
