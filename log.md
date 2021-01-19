@@ -102,3 +102,11 @@
 
 **Link to work:** [search](https://github.com/gauravnumber/search-engine)
 
+### Day 14: Jan 19, 2021
+
+**Progress:** Creating shell program for cleaning unnecessary files.
+
+**Thought:** I saw this type of program. I think I want to create my own. My program is simple and understandable.
+
+**Link to work:** [cleanup](https://github.com/gauravnumber/cleanup)
+
