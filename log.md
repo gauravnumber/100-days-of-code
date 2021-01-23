@@ -110,3 +110,9 @@
 
 **Link to work:** [cleanup](https://github.com/gauravnumber/cleanup)
 
+### Day 15: Jan 23, 2021
+
+**Progress:** Enhancing cleanup shell program.
+
+**Link to work:** [cleanup](https://github.com/gauravnumber/cleanup)
+
