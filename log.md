@@ -116,3 +116,10 @@
 
 **Link to work:** [cleanup](https://github.com/gauravnumber/cleanup)
 
+### Day 16: Feb 2, 2021
+
+**Progress:** Creating website in just single page.
+
+**Thought:** It very helpful when all pages can be written in single page.
+
+**Link to work:** [website](https://github.com/gauravnumber/website/blob/main/README.md)
