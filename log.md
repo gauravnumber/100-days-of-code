@@ -123,3 +123,11 @@
 **Thought:** It very helpful when all pages can be written in single page.
 
 **Link to work:** [website](https://github.com/gauravnumber/website/blob/main/README.md)
+
+### Day 17: Feb 6, 2021
+
+**Progress:** My math-code project.
+
+**Thought:** This project created in 2018.
+
+**Link to work:** [math-code](https://github.com/gauravnumber/math-code)
