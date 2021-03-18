@@ -131,3 +131,12 @@
 **Thought:** This project created in 2018.
 
 **Link to work:** [math-code](https://github.com/gauravnumber/math-code)
+
+### Day 18: Mar 18, 2021
+
+**Progress:** Userscript for scroll-indicator.
+
+**Thought:** It help while scrolling.
+
+**Link to work:** [math-code](https://github.com/gauravnumber/math-code)
+[lonerwolf](https://github.com/gauravnumber/scroll-indicator-lonerwolf/)
