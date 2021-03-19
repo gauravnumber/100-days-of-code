@@ -138,5 +138,12 @@
 
 **Thought:** It help while scrolling.
 
-**Link to work:** [math-code](https://github.com/gauravnumber/math-code)
-[lonerwolf](https://github.com/gauravnumber/scroll-indicator-lonerwolf/)
+**Link to work:** [lonerwolf](https://github.com/gauravnumber/scroll-indicator-lonerwolf/)
+
+### Day 19: Mar 19, 2021
+
+**Progress:** Fully function lonerwolf userscript
+
+**Thought:** It is hard but I know I can do it.
+
+**Link to work:** [lonerwolf](https://github.com/gauravnumber/scroll-indicator-lonerwolf/)
